@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="one" />
+    <string name="four" />
+    <string name="seven" />
+    <string name="two" />
+    <string name="five" />
+    <string name="eight" />
+    <string name="zero" />
+    <string name="bin" />
+    <string name="three" />
+    <string name="six" />
+    <string name="nine" />
+    <string name="plusminus" />
+    <string name="dec" />
+    <string name="clr" />
+    <string name="add" />
+    <string name="sub" />
+    <string name="mul" />
+    <string name="div" />
+    <string name="equ" />
+</resources>
